@@ -1,0 +1,14 @@
+[
+  { "name": "html", "image": "pic/html.png" },
+  { "name": "css", "image": "pic/css.png" },
+  { "name": "javascript", "image": "pic/js.png" },
+  { "name": "react", "image": "pic/react.png" },
+  { "name": "vue.js", "image": "pic/vue.png" },
+  { "name": "angular.js", "image": "pic/angularjs.png" },
+  { "name": "node.js", "image": "pic/node.png" },
+  { "name": "php", "image": "pic/php.png" },
+  { "name": "mysql", "image": "pic/mysql.png" },
+  { "name": "python", "image": "pic/python.png" },
+  { "name": "java", "image": "pic/java.png" },
+  { "name": "c++", "image": "pic/c++.png" }
+]
